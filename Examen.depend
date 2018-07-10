@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1531264738 source:c:\users\liliana\desktop\examen\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+	"ArrayList.h"
+
+1531265205 c:\users\liliana\desktop\examen\empleado.h
+
+1530214182 source:c:\users\liliana\desktop\examen\getsvalids.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"getsValids.h"
+
+1530214182 c:\users\liliana\desktop\examen\getsvalids.h
+
+1531265141 source:c:\users\liliana\desktop\examen\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1531265157 c:\users\liliana\desktop\examen\arraylist.h
+
+1531265033 source:c:\users\liliana\desktop\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"Parser.h"
+
+1531178892 c:\users\liliana\desktop\examen\parser.h
+	"ArrayList.h"
+
+1531180367 source:c:\users\liliana\desktop\examen\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Empleado.h"
+
